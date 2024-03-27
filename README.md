@@ -2,4 +2,4 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/askarigtec/test/total)
 ![](https://komarev.com/ghpvc/?username=nimaltd)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nimaltd)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=nimaltd%2Fee&label=VISITOR&countColor=%23263759)
