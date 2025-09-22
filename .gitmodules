@@ -1,0 +1,6 @@
+[submodule "ee"]
+	path = ee
+	url = https://github.com/nimaltd/ee.git
+[submodule "libs/ee"]
+	path = libs/ee
+	url = https://github.com/NimaLTD/ee.git
