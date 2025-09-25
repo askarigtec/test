@@ -1,6 +1,3 @@
-[submodule "ee"]
-	path = ee
-	url = https://github.com/nimaltd/ee.git
 [submodule "ow"]
 	path = ow
 	url = https://github.com/nimaltd/ow.git
